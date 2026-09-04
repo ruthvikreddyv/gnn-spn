@@ -1,0 +1,21 @@
+# Python 3.8 required
+# -------------------------------------------------------
+# IMPORTANT: Do NOT install into your base Anaconda env.
+# Create a clean environment first:
+#
+#   conda create -n gnn_spn python=3.8 -y
+#   conda activate gnn_spn
+#   pip install -r requirements.txt
+# -------------------------------------------------------
+
+# TF 2.6 is the original baseline environment.
+# If you already have TF 2.10 in a clean env, that also works.
+# Use ONE of the two lines below (comment out the other):
+tensorflow==2.6.0
+# tensorflow==2.10.0
+
+numpy==1.19.5
+scipy>=1.7.0
+networkx>=2.6.3
+matplotlib>=3.4.3
+h5py==3.1.0
