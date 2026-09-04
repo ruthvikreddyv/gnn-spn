@@ -182,16 +182,5 @@ Channel state (Environment.py)
 | Metric | GNN-DDQN | GNN-SPN |
 |---|---|---|
 | V2V success prob. | 0.978 | 0.982 |
-| V2I rate (Mbps)  | 178   | 185   |
+| V2I rate (Mbps)  | 178   | 175   |
 | Channels used    | ~19   | 20    |
-
----
-
-## Paper Reference
-
-> "Enabling 6G Ultra-Reliable V2X Through Constraint-Preserving Graph
-> Learning and Scalable Resource Allocation"
-> IEEE 2024. DOI: 10.1109/10697115
-
-Baseline:
-> GNN-DDQN: https://ieeexplore.ieee.org/document/10697115
