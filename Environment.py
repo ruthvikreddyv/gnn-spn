@@ -5,7 +5,7 @@ import random
 import math
 # This file is revised for more precise and concise expression.
 class V2Vchannels:              
-    # Simulator of the V2V Channels
+    # Simulator of the V2V
     def __init__(self, n_Veh, n_RB):
         self.t = 0
         self.h_bs = 1.5
