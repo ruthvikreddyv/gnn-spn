@@ -3,7 +3,7 @@ import numpy as np
 import time
 import random
 import math
-# This file is revised for more precise and concise expression.
+# This file is revised for more precise
 class V2Vchannels:              
     # Simulator of the V2V
     def __init__(self, n_Veh, n_RB):
