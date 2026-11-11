@@ -1,7 +1,6 @@
 # GNN-SPN: Full Project
 
 Graph Neural Network with Supervised Policy Network for V2X Resource Allocation.
-Extends the GNN-DDQN baseline (IEEE 10697115) with a two-phase training approach:
 **Supervised Pre-training → PPO Fine-tuning**.
 
 ---
