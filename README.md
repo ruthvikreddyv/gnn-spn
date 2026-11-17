@@ -3,8 +3,6 @@
 Graph Neural Network with Supervised Policy Network for V2X Resource Allocation.
 **Supervised Pre-training → PPO Fine-tuning**.
 
----
-
 ## Folder Structure
 
 ```
